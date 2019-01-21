@@ -1,6 +1,6 @@
 Action()
 {
-
+//ok ssd go to bhusawal
 	web_url("blazedemo.com",
 		"URL=http://blazedemo.com/", 
 		"Resource=0", 
